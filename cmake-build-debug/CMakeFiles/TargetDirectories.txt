@@ -1,0 +1,3 @@
+C:/Users/home/Desktop/laba2_cpp_serhachova/cmake-build-debug/CMakeFiles/laba2_cpp_serhachova.dir
+C:/Users/home/Desktop/laba2_cpp_serhachova/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/home/Desktop/laba2_cpp_serhachova/cmake-build-debug/CMakeFiles/rebuild_cache.dir
